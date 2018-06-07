@@ -15,7 +15,7 @@ ms.prod: windows-server-threshold
 >Applies To: Windows Server (Semi-Annual Channel), Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, Windows 10
 
 Windows Admin Center supports several optional features that integrate with Azure services. Use the following information to configure the Windows Admin Center gateway to support these Azure integration features. 
-[Learn about the Azure integration options available with Windows Admin Center.](../plan/azure-integration-options.md)
+[Learn about the Azure integration options available with Windows Admin Center.](../plan/azure-integration-options.md) 
 
 ## Connect your gateway to Azure
 
